@@ -35,7 +35,7 @@ export default function Home() {
         <div>
           <h2 className="mb-4">Welcome to SRVSO!</h2>
           <p className="leading-relaxed">
-             provides students with the chance to explore the world of STEM
+             SRVSO provides students with the chance to explore the world of STEM
             in a competitive setting. Science Olympiad prepares the young
             generation for success in future years of middle school, high
             school, and beyond.
